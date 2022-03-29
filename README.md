@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @catholicsaint
-- 👀 I’m interested in website development and process automation.
+- 👀 I’m interested in website development and process automation
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me right here
